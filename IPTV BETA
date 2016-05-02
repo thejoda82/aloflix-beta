@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channels_info>
+      <title>[COLOR blue]ALOFLIX BETA[/COLOR]</title>
+      <genre>peliculas</genre>
+      <description>COMENZANDO DESDE CERO</description>
+      <thumbnail>http://s24.postimg.org/t88nwvzut/12306029_10153131942002484_372138610_n.jpg</thumbnail>
+      <fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.jpg</fanart>
+      <date>01.05.2016</date>
+      <credits>JALEMAN</credits>
+    </channels_info>
+</channels>
+ 
+ 
+<channels>
+ <channel>
+<name>          [COLOR gray]Donaciones por [COLOR silver]PayPal:[/COLOR] [COLOR gray]joda_82@hotmail.com[/COLOR][/COLOR]</name>
+<thumbnail>http://3pn2ghyrarz1bc00w8jec817.wpengine.netdna-cdn.com/wp-content/uploads/2011/06/76_new-paypal-logo.jpg</thumbnail><fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.</fanart>
+<link>http://ignoreme</link>
+<externallink>http://streaming203.radionomy.com:80/City-Dance-Radio</externallink>
+</channel>
+ 
+</channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan]                             [COLOR  lime]® [/COLOR]ALOFLIX BETA [/COLOR]</name>
+  <thumbnail>http://s24.postimg.org/t88nwvzut/12306029_10153131942002484_372138610_n.jpg</thumbnail>
+<fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://streaming203.radionomy.com:80/City-Dance-Radio</externallink>
+</channel>
+  </channels>
+ 
+ 
+ 
+   
+ 
+ 
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR yellow] 1[/COLOR]-MAYO-2016[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+  <thumbnail>http://www.hermosaprogramacion.com/wp-content/uploads/2014/05/UPDATE-SQL.png</thumbnail>
+<fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://streaming203.radionomy.com:80/City-Dance-Radio</externallink>
+</channel>
+  </channels>
+ 
+ 
+<channels>
+ <channel>
+<name>          [COLOR gray][COLOR  lime]@[/COLOR]   ESTAMOS COMENZANDO DESDE CERO PERO PARA QUE NO ESTEN EN CERO LES DAMOS ESTA PEQUEÑA PARTE DEL ADDON BETA[/COLOR]</name>
+<thumbnail>http://s24.postimg.org/t88nwvzut/12306029_10153131942002484_372138610_n.jpg</thumbnail><fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://streaming203.radionomy.com:80/City-Dance-Radio</externallink>
+</channel>
+ 
+</channels>
+
+<channels>
+ <channel>
+<name>          [COLOR gray][COLOR  lime]@[/COLOR]  IPTV BETA[/COLOR]</name>
+<thumbnail>http://s24.postimg.org/t88nwvzut/12306029_10153131942002484_372138610_n.jpg</thumbnail><fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+ 
+</channels>
