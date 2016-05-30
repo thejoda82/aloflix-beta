@@ -83,5 +83,12 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/thejoda82/aloflix-beta/master/MOVIES</externallink>
 </channel>
+
+ <channel>
+<name>          [COLOR gray][COLOR  lime]@[/COLOR] SECCION IPTV INFANTILES  [/COLOR]</name>
+<thumbnail>http://s24.postimg.org/t88nwvzut/12306029_10153131942002484_372138610_n.jpg</thumbnail><fanart>http://s15.postimg.org/vz8exk7re/12511294_10156368855525332_63585561_o.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://aloflix.org/LIVE/H01TV/INFANTILES/aloflixINFANTIL.xml</externallink>
+</channel>
  
 </channels>
